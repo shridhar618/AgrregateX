@@ -1,0 +1,10 @@
+.env
+.secrets.json
+__pycache__/
+*.pyc
+.venv/
+benchmarks/results/*
+!benchmarks/results/.gitkeep
+*.log
+*.csv
+*.dump
